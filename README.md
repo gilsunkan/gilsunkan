@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Gil Sun.
+
+Currently looking for a job involved with data science.
+
+Primary skills:
+
+- Python 
+- Scikit-learn 
+- SQL 
+- Matplotlib 
+- Numpy 
+- pandas 
+- SciPy
+- TensorFlow 
+- Seaborn 
+- Jupyter Notebook 
+- English/Korean language
